@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: creators-network
+  name: creators
   description: A great API
 spec:
   type: service
   lifecycle: production
-  owner: danny.issroff@onefootball.com
+  owner: jose.alvesf@onefootball.com
